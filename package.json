@@ -54,15 +54,17 @@
 
     "express-session": "^1.17.2",
 
-    "mysql2": "^2.3.0",
+    "mysql2": "^3.14.1",
 
-    "passport": "^0.5.0",
+    "passport": "^0.7.0",
 
     "sequelize": "^6.6.5"
 
   },
 
   "devDependencies": {
+
+    "@types/dotenv": "^6.1.1",
 
     "jest": "^27.2.2"
 
